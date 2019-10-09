@@ -1,5 +1,5 @@
 # Meetup-22
-Chat W/ Firestore - Machine Learning Zero to Hero - MVVM Pattern
+Chat W/ Firestore - Machine Learning Zero to Hero - Actions on Google Serverless for your bots with Firebase Cloud Functions
 
 ## Charlas :
 
