@@ -32,7 +32,7 @@ https://www.facebook.com/media/set/?set=oa.2689682537714585&type=3
 
 ## Sponsors
 
-- UTEC 
+- UTEC Ventures
 
 ## Grupo en Facebook 
 
