@@ -36,7 +36,7 @@ https://www.facebook.com/media/set/?set=oa.2689682537714585&type=3
 
 ## Grupo en Facebook 
 
-[Firebase Perú - Grupo](https://www.facebook.com/groups/androidpe/)
+[Firebase Perú - Grupo](https://www.facebook.com/groups/FirebasePeru/)
 
 ## Meetup 
 
